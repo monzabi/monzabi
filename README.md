@@ -26,6 +26,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/monzabi/monzabi/output/snake.svg" alt="Snake animation" />
-
 ###
